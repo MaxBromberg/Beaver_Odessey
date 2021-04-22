@@ -1,4 +1,4 @@
-##Beaver Odessey
+## Beaver Odessey
 
 Simple game as an early javascript project; run from the lynx, to the lodge!\
 (WASD and arrow keys allowed)
