@@ -1,0 +1,76 @@
+.body {
+  background-color: #01d5b1
+}
+
+
+.grid {
+  width: 1600px;
+  height: 600px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  border-style: solid;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid div {
+  width: 100px;
+  height: 100px;
+  background-color: #087842;
+}
+
+.under_title {
+  text-align: center;
+}
+
+.beaver {
+  width: 100px;
+  height: 100px;
+  /* background-image: url('images/beaver/100px_beaver.jpg'); */
+  background-image: url('images/beaver/no_background_100px_beaver.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+.lynx {
+  width: 100px;
+  height: 100px;
+  /* background-image: url('images/lynx/no_background_left_100px_lynx.jpg'); */
+  background-image: url('images/lynx/lynx_head.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+.tree {
+  width: 100px;
+  height: 100px;
+  background-image: url('images/trees/no_background_tree1.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+.beaver_tree{
+  width: 100px;
+  height: 100px;
+  background-image: url('images/trees/beaver_w_tree.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+.log{
+  width: 100px;
+  height: 100px;
+  background-image: url('images/logs/log3.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+.lodge{
+  width: 100px;
+  height: 100px;
+  background-image: url('images/beaver/lodge.jpg');
+  margin: 0;
+  padding: 0;
+}
